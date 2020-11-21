@@ -52,3 +52,4 @@ print(results.summary())
 # F-statistics: https://statisticsbyjim.com/regression/interpret-f-test-overall-significance-regression/#comment-7861
 # Relation between standard error and R2: https://statisticsbyjim.com/regression/standard-error-regression-vs-r-squared/
 # Relation between standard error and R2: https://www.youtube.com/watch?v=r-txC-dpI-E&ab_channel=statisticsfun
+# https://www.youtube.com/watch?v=VvlqA-iO2HA&ab_channel=zedstatistics
